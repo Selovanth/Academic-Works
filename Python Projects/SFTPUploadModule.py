@@ -1,6 +1,4 @@
 import paramiko, os, re
-#AZURE SFTP Server 40.76.148.162
-#HOME PC Server 47.135.147.55
 
 ###### VARIABLES ######
 #Regex pattern to use for detection of valid IP address input
